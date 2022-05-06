@@ -88,7 +88,7 @@ export const Main = ({
 							type="submit"
 							className="bg-cyan-400 hover:bg-cyan-500 transition-colors h-9 font-semibold mt-2 w-full"
 						>
-							Cadastrar
+							Save
 						</button>
 					</div>
 				</div>
